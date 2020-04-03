@@ -8,7 +8,10 @@ The geographical division of the earth into meaningful biodiversity units (e.g.,
 
 ## Citation
 
-Reginato, M. & Michelangeli, F.A. (in press.) Bioregions of eastern Brazil based on vascular plant occurrence data. In: V. Rull & A.C. Carnaval. Neotropical Diversification. Springer.
+Reginato M., Michelangeli F.A. (2020) Bioregions of Eastern Brazil, Based on Vascular Plant Occurrence Data. In: Rull V., Carnaval A. (eds) Neotropical Diversification: Patterns and Processes. Fascinating Life Sciences. Springer, Cham. 
+DOI https://doi.org/10.1007/978-3-030-31167-4_18
+
+[pdf](https://link.springer.com/chapter/10.1007/978-3-030-31167-4_18)
 
 ## Download (shapefile)
 
